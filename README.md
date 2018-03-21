@@ -1,0 +1,1 @@
+# semi-smart-slideshow
